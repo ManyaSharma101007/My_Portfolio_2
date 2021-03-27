@@ -1,0 +1,37 @@
+h1{
+    color :aqua;
+}
+
+h2{
+     color : aquamarine;
+}
+ .header{
+     background-color: bisque;
+     display : flex;
+    justify-content: space-between;
+ }
+
+
+ .info{
+     background-color: cornflowerblue;
+ }
+
+ h2,p{
+    text-align: center;
+ }
+
+ .grid{
+     background-color: cornsilk;
+     display : flex;
+     justify-content: space-evenly;
+     flex-wrap: wrap;
+ }
+
+ .footer{
+     background-color: crimson;
+ }
+ .icons{
+     display:flex;
+    justify-content: center;
+    
+ }
